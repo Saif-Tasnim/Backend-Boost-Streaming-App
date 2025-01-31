@@ -1,0 +1,32 @@
+{
+  "name": "standard-backend-setup",
+  "version": "1.0.0",
+  "description": "its a standard nodejs-express js-mongodb standard professional project setup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "standard",
+    "professional",
+    "project",
+    "setup",
+    "mongodb",
+    "nodejs",
+    "express js",
+    "javascript"
+  ],
+  "author": "Saif Tasnim Chowdhury",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
