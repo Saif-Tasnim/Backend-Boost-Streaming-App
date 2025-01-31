@@ -1,1 +1,1 @@
-const DB_URI = "";
+export const DB_NAME = "";
