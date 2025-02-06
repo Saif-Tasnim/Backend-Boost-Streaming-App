@@ -1,4 +1,4 @@
-# Starter Backend Project Setup
+# Backend Boost Streaming Project
 
 - [Database Modelling Diagram](https://app.eraser.io/workspace/GWqSsu1Bf2UNa7L7YkQU?origin=share)
 
